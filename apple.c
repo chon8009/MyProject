@@ -3,5 +3,5 @@
 void main()
 {
 	printf("We are CJ\n");
-	¹»¹Ù ¤Ñ¤Ñ
+	printf("put it back on"\n);
 }
